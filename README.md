@@ -12,7 +12,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| NIST Cybersecurity Framework - HealthCare | <a href="https://github.com/JadenSal/GRC-Projects">Grc</a>|
+| NIST Cybersecurity Framework - HealthCare | <a href="https://github.com/JadenSal/GRC-Projects">NIST CSF - HIPPA</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
