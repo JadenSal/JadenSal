@@ -12,7 +12,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/JadenSal/GRC-Projects">Grc</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -71,7 +71,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <img src="https://img.shields.io/badge/-SC900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 
 ## Projects
-- Detection Lab
+
+- <a href="https://github.com/JadenSal/GRC-Projects">Grc</a>
 - SOC Automation Project
 
 
