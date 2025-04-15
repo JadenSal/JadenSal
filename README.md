@@ -72,7 +72,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Projects
 
-- <a href="https://github.com/JadenSal/GRC-Projects">Grc</a>
+- <a href="https://github.com/JadenSal/GRC-Projects">NIST CSF - HIPPA</a>
 - SOC Automation Project
 
 
