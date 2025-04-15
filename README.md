@@ -12,7 +12,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | NIST Cybersecurity Framework - HealthCare | <a href="https://github.com/JadenSal/GRC-Projects">NIST CSF - HIPPA</a>|
-| EDR Investigation Write Up | <a href="https://google.com">Investigation Write Up</a>|
+| EDR Investigation Write Up | <a href="https://github.com/JadenSal/EDR-investigation-Write-up-">Investigation Write Up</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -72,6 +72,6 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ## Projects
 
 - <a href="https://github.com/JadenSal/GRC-Projects">NIST CSF - HIPPA</a>
-- SOC Automation Project
+- <a href="https://github.com/JadenSal/EDR-investigation-Write-up-">Investigation Write Up</a>
 
 
