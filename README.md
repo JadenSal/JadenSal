@@ -5,7 +5,7 @@ I am a Cyber Secuirty Analyst with a profound interest in technology and a dedic
 
 ## Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into a new role in this field, specifically aiming to join the GRC Team.
+My journey in Information Technology has sparked a strong passion for cybersecurity, and I am now excited to take the next step by transitioning into a role within the GRC (Governance, Risk, and Compliance) team.
 
 ## Skills
 
